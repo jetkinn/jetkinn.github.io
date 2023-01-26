@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JetkinN</title>
+  
+  <subtitle>My Blog</subtitle>
+  <link href="http://sodoi.cc/atom.xml" rel="self"/>
+  
+  <link href="http://sodoi.cc/"/>
+  <updated>2023-01-26T23:42:56.409Z</updated>
+  <id>http://sodoi.cc/</id>
+  
+  <author>
+    <name>Jettt</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>超好用的Gif动图制作软件GifCam.V5.5汉化版</title>
+    <link href="http://sodoi.cc/2023/01/27/gifcam/"/>
+    <id>http://sodoi.cc/2023/01/27/gifcam/</id>
+    <published>2023-01-26T19:03:25.000Z</published>
+    <updated>2023-01-26T23:42:56.409Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2023/01/27/gifcam/1.jpg"></p><p>昨天帮朋友准备把一个视频转换成gif动图,试了几个在线转换工具效果都不是太好,功能有所限制,尺寸不能调整.转换后图片体积过大.最重要的是,画面的黑边无法去掉.真不想一桢一帧,提取出来,去黑边,再合成.这样做,实在太失效率.不仅麻烦,而且耗时.</p><p>关键是我,懒!</p><p>最后在准备下载会声会影提取画面的时候,无意间发现了一个超好用的工具.GifCam.不仅小巧,易用,功能还强大.占地还不到2M.</p><p><strong>软件说明</strong></p><p>GifCam是一款操作非常简单,界面非常简洁明了的GIF录制软件.它能够非常轻松的录制你想要的动态gif图片,录制好了后还可以对其进行编辑,优化.在录制的过程中用户可以随时改变窗口大小,位置,在编辑的时候也可以查看每一帧,并且可以对其进行增加和删除.可保存为六种色彩质量保存方案.绿色文件,点开即用.</p><p><strong>软件界面</strong></p><p><img src="/2023/01/27/gifcam/2.gif"></p><p>主界面</p><p><img src="/2023/01/27/gifcam/3.png"></p><p>编辑界面</p><p><img src="/2023/01/27/gifcam/4.png"></p><p>录制功能</p><p><img src="/2023/01/27/gifcam/5.png"></p><p>保存选项</p><p><img src="/2023/01/27/gifcam/6.gif"></p><p>示例</p><p>截图网上找的,本站分享的是汉化版本.</p><p><a href="https://jetttt.lanzoum.com/b00bl2wmj">下载地址 密码: beey</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2023/01/27/gifcam/1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;昨天帮朋友准备把一个视频转换成gif动图,试了几个在线转换工具效果都不是太好,功能有所限制,尺寸不能调整.转换后图片体积过大.最重要的是,画面的黑边无法去掉.真不想一桢一帧,提取出来,去</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="软件" scheme="http://sodoi.cc/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="工具" scheme="http://sodoi.cc/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="动图" scheme="http://sodoi.cc/tags/%E5%8A%A8%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斐讯N1盒子刷机及救砖</title>
+    <link href="http://sodoi.cc/2022/11/07/%E6%96%90%E8%AE%AFN1%E7%9B%92%E5%AD%90%E5%88%B7%E6%9C%BA%E5%8F%8A%E6%95%91%E7%A0%96/"/>
+    <id>http://sodoi.cc/2022/11/07/%E6%96%90%E8%AE%AFN1%E7%9B%92%E5%AD%90%E5%88%B7%E6%9C%BA%E5%8F%8A%E6%95%91%E7%A0%96/</id>
+    <published>2022-11-07T14:50:18.000Z</published>
+    <updated>2023-01-23T09:20:11.121Z</updated>
+    
+    <content type="html"><![CDATA[<p>算起来，斐讯N1从入手到现在也已经快3年了。期间只重刷过一次，原因是卖家刷的yff系统比较大，占用了太多空间，自己网上找了教程刷了W大的系统，一直用到现在。不知道是不是系统的关系还是其他原因，近些日子来，遥控器的返回键经常的失去响应，必须重启才能恢复。琢磨着是不是再重新刷个系统时，却发现差不多忘了怎么刷机了。翻了翻收藏夹，找了当时的文章看了下，唤醒记忆。</p><h2 id="斐讯天天链N1-官改v2-2"><a href="#斐讯天天链N1-官改v2-2" class="headerlink" title="斐讯天天链N1 官改v2.2"></a>斐讯天天链N1 官改v2.2</h2><p>原文地址：<a href="https://www.right.com.cn/forum/thread-338759-1-1.html">[2018-9-22]斐讯天天链N1 官改v2.2线刷包，精简版，扩展功能可选-斐讯无线路由器以及其它斐迅网络设备-恩山无线论坛 (right.com.cn)</a></p><p>1、基于斐讯官方 V2.32 系统制作<br>斐讯设置主界面去除 账号中心、儿童锁、版本升级，改为 蓝牙遥控配对、更多设置（安卓设置）、设置主桌面。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012153ez00c0ovjwwzoq0r.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012140t5utrw9yy2e98eft.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012140enjkg5zdjsk65day.jpg">  </p><p>2、首次启动开机向导<br>可自动配对 山寨小米蓝牙遥控器、天猫魔盒蓝牙语音遥控器，不影响斐讯T1原厂遥控器配对；  </p><p>第三方遥控：<br>短按电源键出现电源选择界面，确认键执行第一项关机或自动倒数计时关机，无关机动画(快速关机)；<br>关机后按遥控器任意键唤醒开机，斐讯原厂遥控也可快速关机；<br><strong>快速关机bug：</strong>若开机进入桌面后立即执行快速关机，大概率变成重启；<br>第三方遥控在电源选择界面再次按电源键 或 直接长按电源键 ，盒子会重启；  </p><p>斐讯T1原厂遥控器：<br>短按电源键出现电源选择界面后再按一次电源键 或 长按电源键，出现关机动画后盒子关闭；<br>按电源键唤醒开机。  </p><p>3、电源选择界面中 “休眠” 改成 “线刷”：<br>预先用USB双公头线连接盒子和电脑，执行该功能后盒子进入线刷模式；<br>若未接线，盒子会进入recovery界面；<br>也可通过该功能引导U盘第三方系统，如 Armbian Linux 、CoreELEC、Sx05RE 等等。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143kmvy74iqykavpvvw.jpg">  </p><p>4、斐讯挖矿、CDN、下载等预置应用已去除；<br>内置 当贝桌面、Lighthome 、TV Launcher ，也可自行安装其它桌面应用；<br>HDP optware 、谷歌框架、油管、Xposed框架 、kodi 等扩展功能，采用adb脚本包形式选择安装，<br>为保证推送速度，请用网线连接盒子和路由器，在电脑上解压 N1选装功能一键工具20180922.7z ，运行 run.bat 。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/22/034416vrzcxeakaa7aag7w.jpg"><br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/22/034418p71dxalkvvxzovaz.jpg">  </p><p>5、静默root授权、telnet 服务端口2323 ，adb shell 直接为root权限；<br>线刷方法、注意事项这些不再重复，请参考网盘文档或历史帖子。  </p><p><strong>新手必看</strong><br>1、若用其它桌面，需要关闭当贝桌面霸道的 “开机启动”，如下图：<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012155yf12maqzxa74qoiq.jpg">  </p><p>2、桌面切换方法: 斐讯设置-&gt;设置主桌面-&gt;鼠标操作点击 主屏幕应用<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012141vdytaxtqo5atbahp.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143jpszb1sd3lcs4nnn.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143tz2whyh0hhk22b1h.jpg">  </p><p>3、电视管家 -&gt; 一键加速 ，用于清理后台释放运存，或者安装xposed框架和xposed edge pro实现清理后台应用<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012146yumly5vlgsglfukl.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012147qvjy5v0iyyvg5zuz.jpg">  </p><p>4、关于GMS 谷歌框架<br>N1 设备未获得Google认证，运行Play等谷歌服务会出现警告信息无法使用，<br><a href="https://www.google.com/android/uncertified/">认证注册</a>后即正常，注册一次即可，终身无忧，<br>具体注册方法可参考相关帖子，例如 <a href="https://www.right.com.cn/forum/thread-337397-1-1.html">【9月10日】彻底解决N1的Goog1e无法登录的问题-斐讯无线路由器以及其它斐迅网络设备-恩山无线论坛</a></p><h2 id="N1-救砖方法"><a href="#N1-救砖方法" class="headerlink" title="N1 救砖方法"></a>N1 救砖方法</h2><p>准备工作：</p><ul><li>N1机子一台，机子是正常使用install.sh安装armbian到EMMC的，又想恢复成原来的安卓固件，系统崩溃了也没关系</li><li>准备好WEBPAD大的2.2线刷包</li><li>USB_Burning_Tool 刷机工具</li><li>USB 公对公线一条</li></ul><p>开始刷机：</p><ul><li>先把USB对公线链接到电脑USB口与N1的第二个口（靠HDMI口），N1不要通电</li><li>打开USB_Burning_Tool，导入固件WEBPAD大的2.2的线刷包，验证通过后，出现开始字样</li><li>勾选擦除FLASH，不要勾选擦除bootloader，USB_Burning_Tool点击开始运行刷机，3秒钟内速度让N1通电。</li><li>USB_Burning_Tool开始正常识别N1线刷模式，刷机开始。</li><li>烧录完成后，拔电重启，N1恢复了原来的样子，可以正常ADB连接，进入线刷，重新安装ARMBIAN。</li></ul><p>固件的安装及效果大同小异，安装时注意下固件是不是针对自改的机子就行。比如内存，有的固件是基于自己加大内存的机子，不一定适用于自己。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;算起来，斐讯N1从入手到现在也已经快3年了。期间只重刷过一次，原因是卖家刷的yff系统比较大，占用了太多空间，自己网上找了教程刷了W大的系统，一直用到现在。不知道是不是系统的关系还是其他原因，近些日子来，遥控器的返回键经常的失去响应，必须重启才能恢复。琢磨着是不是再重新刷个</summary>
+      
+    
+    
+    
+    
+    <category term="盒子" scheme="http://sodoi.cc/tags/%E7%9B%92%E5%AD%90/"/>
+    
+    <category term="斐讯" scheme="http://sodoi.cc/tags/%E6%96%90%E8%AE%AF/"/>
+    
+    <category term="N1" scheme="http://sodoi.cc/tags/N1/"/>
+    
+    <category term="刷机" scheme="http://sodoi.cc/tags/%E5%88%B7%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Niagara Launcher 值得一用的桌面启动器</title>
+    <link href="http://sodoi.cc/2022/08/28/Niagara-Launcher/"/>
+    <id>http://sodoi.cc/2022/08/28/Niagara-Launcher/</id>
+    <published>2022-08-27T16:22:00.000Z</published>
+    <updated>2023-01-23T10:12:59.007Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近一直想给自己换把小屏手机，无意间发现了一把名为“palm phone”的手机，机身尺寸为50.6 x 96.6 x 7.4 mm，屏幕尺寸为3.3英寸，重量仅仅62.5g，还不到iPhone XR的三分之一。对我这种只是用来扫码，不玩游戏的人来说，真的很适合，而且，这手机的桌面是类似苹果手表的瀑布流启动器，很合我意。遗憾的是，这手机的美版竟然只能移动2G，联通3G。实在是有够奇葩。在听说国行的版本可以电信4G后，便稍微看了下海鲜市场，那价格算是彻底让我打消了换购的想法。</p><p>既然如此，便想试着找下类似的桌面来置换就行了。找了很久，找到一款类似的桌面启动器–honey launcher。</p><p>试着安装了下，发现不付费根本用不了瀑布流的模式。正当准备放弃的时候，无意间看到一个评分蛮高的启动器，就是niagara launcher。</p><p><img src="/2022/08/28/Niagara-Launcher/1.png" alt=" "></p><p>正如启动器的名字那样，“niagara”，尼亚加拉瀑布那样，瀑布式交互体验是 Niagara Launcher 的核心特色。</p><p>在 Niagara Launcher 中，我们常规认知中的启动器布局，如小部件、桌面图标、应用抽屉等等被完全打破、重组，借由一个长长的清单串联起来。</p><p><img src="/2022/08/28/Niagara-Launcher/2.gif" alt=" "></p><p><img src="/2022/08/28/Niagara-Launcher/3.png" alt=" "></p><p>从上到下，这份清单包含了能够让我们一眼抓住关键系统信息的小部件，如时间、日期、天气、手机电量、媒体播放等；然后是使用频率最高的应用，它们和小部件一起构成了我们解锁手机后无需任何操作就能一览无余的 Niagara Launcher 主界面，也可以被看作是传统意义上的「主屏」；主屏往下，才是根据字母 A-Z 排序的本机应用清单、我们以往认知观念中的「应用抽屉」。当然了，启动器不能没有自己的设置界面，Niagara Launcher 的设置入口在这份清单的最底部。</p><p>如果只是排列方式上的重组，我们会更倾向于将其称为「清单」而不是「瀑布」。在上面这种排列方式的基础之上，Niagara Launcher 同时也是一款可以完全通过单手甚至单指完成几乎所有交互的启动器。</p><p><img src="/2022/08/28/Niagara-Launcher/4.gif" alt=" "></p><p>得益于三星同样长宽比优异的屏幕， Niagara Launcher 的上下滑动可以完整展现出应用列表的顺畅感。如此再加上「双击字母列表关闭屏幕」和三星自己的 One Hand Operation +，调用桌面和通知栏的任何功能都只需要一根手指，总算是实现了我的夙愿之一：手机总不应该变成如今「一只手没法用」的状态。</p><p>放眼目前所有质量与口碑兼具的第三方启动器，真正跳脱出「应用抽屉」的框架、同时能够在手势操作和快捷功能上让人眼前一亮的选择，除了 Niagara Launcher 之外，无出其右。</p><p><a href="https://jetttt.lanzoum.com/b0chbm7yj">下载地址 密码：1ymr </a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近一直想给自己换把小屏手机，无意间发现了一把名为“palm phone”的手机，机身尺寸为50.6 x 96.6 x 7.4 mm，屏幕尺寸为3.3英寸，重量仅仅62.5g，还不到iPhone XR的三分之一。对我这种只是用来扫码，不玩游戏的人来说，真的很适合，而且，这手</summary>
+      
+    
+    
+    
+    <category term="工具软件" scheme="http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="安卓" scheme="http://sodoi.cc/tags/%E5%AE%89%E5%8D%93/"/>
+    
+    <category term="启动器" scheme="http://sodoi.cc/tags/%E5%90%AF%E5%8A%A8%E5%99%A8/"/>
+    
+    <category term="手机" scheme="http://sodoi.cc/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TVBOX 盒子影视播放工具</title>
+    <link href="http://sodoi.cc/2022/08/11/TVBOX/"/>
+    <id>http://sodoi.cc/2022/08/11/TVBOX/</id>
+    <published>2022-08-10T16:52:45.000Z</published>
+    <updated>2023-01-23T09:33:09.005Z</updated>
+    
+    <content type="html"><![CDATA[<p>TVBOX是一款开源，可自定义添加站源的影音播放工具，可支持点播，直播，磁力链等形式的影视播放。支持SP，APP，采集，聚合等形式的播放源。它的前身是一代神器猫影视，由于传播广泛，有些唯利是图之人上架至第三方平台售卖，开发者无法承担可能面临的版权问题，宣布停止维护项目。而重新打造的TVBOX,不仅继承了猫影视的功能，更是对其基础上不断优化，及添加新的功能。</p><p>和猫影视一样，TVBox原生版，只是个空壳，不带任何数据源，需要自行在设置里导入接口。支持网址和本地两种导入方式。（导入前，需先开启设备的存储权限）<br><img src="/2022/08/11/TVBOX/0.jpg"><br><img src="/2022/08/11/TVBOX/1.jpg"><br><img src="/2022/08/11/TVBOX/3.jpg"><br>以下为网络收集的接口：</p><p>2023.01.23 更新：</p><p><a href="http://drpy.site/slim">http://drpy.site/slim</a>  (精简版）<br><a href="http://drpy.site/js1">http://drpy.site/js1</a>  (普通版）<br>来源 @liuxiaoya00 </p><p><a href="https://freed.yuanhsing.cf/TVBox/meowcf.json">https://freed.yuanhsing.cf/TVBox/meowcf.json</a><br>来源 YuanHsing仓库 (<a href="https://github.com/YuanHsing/freed/tree/master/TVBox">https://github.com/YuanHsing/freed/tree/master/TVBox</a>) 推荐💯</p><p><a href="https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json">https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json</a><br>来源 @anyo88 </p><p><a href="https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json">https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json</a><br>来源 @shiguangsuidao </p><p>http:&#x2F;&#x2F;刚刚.live&#x2F;猫<br>点击前往本地配置<br> (<a href="https://t.me/MaoYingShi/16378)%E6%9D%A5%E6%BA%90">https://t.me/MaoYingShi/16378)来源</a> 刚刚的博客</p><p> (<a href="https://g2.pub/)https://raw.iqiq.io/liu673cn/box/main/m.json">https://g2.pub/)https://raw.iqiq.io/liu673cn/box/main/m.json</a><br>来源 liu673cn仓库 (<a href="https://github.com/liu673cn/mao">https://github.com/liu673cn/mao</a>)</p><p><a href="http://w.g9.pub:66/842250464/bibi/cbi.json">http://w.g9.pub:66/842250464/bibi/cbi.json</a> 学习接口<br>来源 @MAdouSM </p><p><a href="https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json">https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json</a><br>来源 @MAdouSM 学习接口👩‍🎓Py版<br>下载Py版本👉 @watson1028</p><p><a href="https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json">https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json</a><br>来源 影视tv</p><p><a href="https://dxawi.github.io/0/0.json">https://dxawi.github.io/0/0.json</a> 推荐💯<br>来源 @boozf</p><p><a href="http://tvbox.lengniuge.eu.org/ts">http://tvbox.lengniuge.eu.org/ts</a><br>http:&#x2F;&#x2F;饭太硬.ga&#x2F;x&#x2F;o.json</p><hr><p><a href="http://gg.gg/11mv09">http://gg.gg/11mv09</a><br><a href="https://wds.ecsxs.com/227680.txt">https://wds.ecsxs.com/227680.txt</a><br><a href="https://shuyuan.miaogongzi.net/shuyuan/1656890371.txt">https://shuyuan.miaogongzi.net/shuyuan/1656890371.txt</a><br><a href="https://pastebin.com/raw/sbPpDm9G">https://pastebin.com/raw/sbPpDm9G</a><br><a href="http://json.myaixixi.com/mtv/jk.json">http://json.myaixixi.com/mtv/jk.json</a>   <a href="https://tangsan99999.github.io/xiaobai.json">https://tangsan99999.github.io/xiaobai.json</a><br><a href="https://github.com/hjcmcn/z/blob/main/21929.json">https://github.com/hjcmcn/z/blob/main/21929.json</a><br><a href="http://music.wonzan.com/212757.json">http://music.wonzan.com/212757.json</a><br><a href="https://tool.wotianna.com/mysjk.json">https://tool.wotianna.com/mysjk.json</a><br><a href="https://shuyuan.miaogongzi.net/shuyuan/1659160771.txt">https://shuyuan.miaogongzi.net/shuyuan/1659160771.txt</a><br><a href="http://json.myaixixi.com/mtv/jk.json">http://json.myaixixi.com/mtv/jk.json</a>   <a href="https://tangsan99999.github.io/xiaobai.json">https://tangsan99999.github.io/xiaobai.json</a><br><a href="https://pastebin.com/raw/sbPpDm9G">https://pastebin.com/raw/sbPpDm9G</a></p><p>PS：这些网址不确定是否有人维护，时效性无法保证，如果不能用了可以留言，我会更新。</p><p>网盘：<a href="https://jetttt.lanzoum.com/b0cgrml2b">点击下载</a> 密码:8q36</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;TVBOX是一款开源，可自定义添加站源的影音播放工具，可支持点播，直播，磁力链等形式的影视播放。支持SP，APP，采集，聚合等形式的播放源。它的前身是一代神器猫影视，由于传播广泛，有些唯利是图之人上架至第三方平台售卖，开发者无法承担可能面临的版权问题，宣布停止维护项目。而重</summary>
+      
+    
+    
+    
+    <category term="工具软件" scheme="http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="TVBOX" scheme="http://sodoi.cc/tags/TVBOX/"/>
+    
+    <category term="软件" scheme="http://sodoi.cc/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="盒子" scheme="http://sodoi.cc/tags/%E7%9B%92%E5%AD%90/"/>
+    
+    <category term="影音" scheme="http://sodoi.cc/tags/%E5%BD%B1%E9%9F%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>makedown语法</title>
+    <link href="http://sodoi.cc/2022/08/10/makedown/"/>
+    <id>http://sodoi.cc/2022/08/10/makedown/</id>
+    <published>2022-08-10T08:11:51.000Z</published>
+    <updated>2022-08-10T16:18:07.386Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>什么是Markdown？</strong></p><p>Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的御用书写格式。</p><p>非技术类笔记用户，千万不要被「标记」、「语言」吓到，Markdown的语法十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，不到半小时就能完全掌握。</p><p>十个标记符号，却能让人<strong>优雅地沉浸式写作</strong>，专注内容而不是纠结排版，达到<strong>「心中无尘，码字入神」</strong>的境界。</p><blockquote><p>虽然博客园官方推荐使用TinyMCE编辑器，即富文本编辑器，但在日后的博客迁移中，makedown才是最方便迁移的文本格式。富文本写了就不方便迁移了。</p></blockquote><p><strong>一、利用Markdown可以做什么？</strong></p><h1 id="①代码高亮、文字高亮"><a href="#①代码高亮、文字高亮" class="headerlink" title="①代码高亮、文字高亮"></a>①代码高亮、文字高亮</h1><p>代码高亮用三个&#96;&#96;&#96;就行<br><img src="/2022/08/10/makedown/1.jpg"></p><p>文字高亮 :<code>==text==</code></p><h1 id="②制作待办事项To-do-List"><a href="#②制作待办事项To-do-List" class="headerlink" title="②制作待办事项To-do List"></a>②制作待办事项To-do List</h1><p><img src="https://s2.loli.net/2022/08/10/G1qfLNaFYyzH7Mr.jpg"></p><h1 id="③流程图"><a href="#③流程图" class="headerlink" title="③流程图"></a>③流程图</h1><p><img src="https://s2.loli.net/2022/08/10/7tLbyhGfMFrsJIA.jpg"></p><h1 id="④序列图"><a href="#④序列图" class="headerlink" title="④序列图"></a>④序列图</h1><p><img src="https://s2.loli.net/2022/08/10/6FpNPLiCM1J2eSj.jpg"></p><h1 id="⑤甘特图"><a href="#⑤甘特图" class="headerlink" title="⑤甘特图"></a>⑤甘特图</h1><p><img src="https://s2.loli.net/2022/08/10/1l6ZaMLj2hVXrqR.jpg"></p><h1 id="⑥表格"><a href="#⑥表格" class="headerlink" title="⑥表格"></a>⑥表格</h1><p><img src="https://s2.loli.net/2022/08/10/zqwdn4Ep8165Lry.jpg"></p><h1 id="⑦书写数学公式"><a href="#⑦书写数学公式" class="headerlink" title="⑦书写数学公式"></a>⑦书写数学公式</h1><p><img src="https://s2.loli.net/2022/08/10/UGNfdxBvHsbi567.jpg"></p><h1 id="Ⅰ标题"><a href="#Ⅰ标题" class="headerlink" title="Ⅰ标题"></a>Ⅰ标题</h1><p>标题是每篇文章必备而且最常用的格式。</p><p>在Markdown中，如果想将一段文字定义为标题，只需要在这段文字前面加上 #，再在 # 后加一个空格即可。还可增加二、三、四、五、六级标题，总共六级，只需要增加 # ，增加一个 # ，标题字号相应降低一级。如图：</p><p><img src="https://s2.loli.net/2022/08/10/RLmD6zT8vyENUbc.png"></p><h1 id="Ⅱ无序列表-amp-有序列表"><a href="#Ⅱ无序列表-amp-有序列表" class="headerlink" title="Ⅱ无序列表&amp;有序列表"></a>Ⅱ无序列表&amp;有序列表</h1><p>列表格式也很常用，它可以让你的文稿变得井井有条。<br>在 Markdown 中，你想画无序列表，只需要<strong>在文字前面加上（ - 或 + 或 * ）和（空格）就可以</strong>了；如果你想画有序列表，在文字前面加上<strong>（1. 2. 3. ）和（空格）即可</strong>。</p><p><em>注：1.和文字之间要保留一个空格。- + * 和文字之间也要有一个空格</em><br><img src="https://s2.loli.net/2022/08/10/jIULqmYXGHOSW7l.png"></p><h1 id="Ⅲ引用"><a href="#Ⅲ引用" class="headerlink" title="Ⅲ引用"></a>Ⅲ引用</h1><p>如果你需要在文稿中引用一段别处的句子，那么就要用到「引用」格式。</p><p>在引用文字前加上 （&gt;）+（空格） 。 注意，&gt;和文字之间要有一个空格<br><img src="https://s2.loli.net/2022/08/10/mqstIjVlWERxP5N.png"></p><h1 id="Ⅳ粗体-amp-斜体"><a href="#Ⅳ粗体-amp-斜体" class="headerlink" title="Ⅳ粗体&amp;斜体"></a>Ⅳ粗体&amp;斜体</h1><p>Markdown 的粗体和斜体也非常简单：</p><p>用一个 * 包含一段文本就是斜体的语法</p><p>用两个 * 包含一段文本就是粗体的语法</p><p><img src="https://s2.loli.net/2022/08/10/PNG4TMbBkU932JV.png"></p><h1 id="Ⅴ链接与图片"><a href="#Ⅴ链接与图片" class="headerlink" title="Ⅴ链接与图片"></a>Ⅴ链接与图片</h1><p>链接：在 Markdown 中，插入链接只需要使用 <code>[显示文本](链接地址)</code> 即可。</p><p>图片：在 Markdown 中，插入图片只需要使用 <code>![显示文本](图片链接地址)</code>即可。</p><p><em>注：插入图片的语法和链接的语法很像，只是前面多了一个 ！</em><br><img src="https://s2.loli.net/2022/08/10/iEseY6lRb2kJPNj.png"></p><h1 id="Ⅵ博客园独特的分割线"><a href="#Ⅵ博客园独特的分割线" class="headerlink" title="Ⅵ博客园独特的分割线"></a>Ⅵ博客园独特的分割线</h1><p>分割线的语法只需要另起一行， <code>---</code> 即可输出分割线，分割两段文字内容。<br>三个臭皮匠，赛过诸葛亮<br>代码：<code>---</code></p><p>效果：</p><hr><h1 id="Ⅶ表格"><a href="#Ⅶ表格" class="headerlink" title="Ⅶ表格"></a>Ⅶ表格</h1><p>当你需要在Markdown文稿中键入表格，代码如下：<br>居左:–，居右–:，居中:–:<br><img src="https://s2.loli.net/2022/08/10/azkvqZEStUOFfAr.png"><br>本文链接：<a href="https://www.cnblogs.com/guoxinyu/p/12585186.html">https://www.cnblogs.com/guoxinyu/p/12585186.html</a> 作者：青墟</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;什么是Markdown？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的御用书写格式。&lt;/p&gt;
+&lt;p&gt;非技术类笔</summary>
+      
+    
+    
+    
+    <category term="hexo" scheme="http://sodoi.cc/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="http://sodoi.cc/tags/hexo/"/>
+    
+    <category term="makedown" scheme="http://sodoi.cc/tags/makedown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo搭建时遇到的一些问题</title>
+    <link href="http://sodoi.cc/2022/08/07/hexo%E6%90%AD%E5%BB%BA%E6%97%B6%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
+    <id>http://sodoi.cc/2022/08/07/hexo%E6%90%AD%E5%BB%BA%E6%97%B6%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</id>
+    <published>2022-08-06T20:47:51.000Z</published>
+    <updated>2022-08-07T08:29:23.147Z</updated>
+    
+    <content type="html"><![CDATA[<p>1：hexo d后 ERROR Deployer not found: git</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-deployer-git</span><br></pre></td></tr></table></figure><p>2：本地运行错误</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">extends includes/layout.pug block content include ./includes/mixins/post-ui.pug #recent-posts.recent-posts +postUI include includes/pagination.pug</span><br></pre></td></tr></table></figure><p>输入</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</span><br></pre></td></tr></table></figure><p>3：CNAME 的配置<br>    桌面新建CNAME文件，在该文件里写入你的域名，再把cname放入博客根目录的source文件夹下</p><p>    PS：其他文件夹不会部署上去</p><p>4：一些git时的ERROR</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ERROR &#123; err: YAMLException: can not read a block mapping entry; a multiline</span><br></pre></td></tr></table></figure><p>这是title或categories等后面没有英文空格或冒号</p><p>5：关于图片不显示</p><p>    查询了网上大量的解决方法都不行，最后发现是无法外链七牛的图。具体原因不明。由于换了sm.ms做图床后，可以正常访问，所以，并没有再深入寻找解决方法。</p><p>    PS: 不知道是单butterfly主题的问题，还是所有主题都这样。</p><p>6： 网上找的一些关于图片不显示的处理方法</p><p>    1.问题描述<br>    Hexo使用图床的方式加载在blog中加载图片，会在非本人的电脑或者手机端报“html访问图片资源403问题(http referrer)”，导致采用图床方式加载的图片全部无法加载。</p><p>    2.问题原因<br>    http请求体的header中有一个referrer字段，用来表示发起http请求的源地址信息，这个referrer信息是可以省略但是不可修改的，就是说你只能设置是否带上这个referrer信息，不能定制referrer里面的值。</p><p>    服务器端在拿到这个referrer值后就可以进行相关的处理，比如图片资源，可以通过referrer值判断请求是否来自本站，若不是则返回403或者重定向返回其他信息，从而实现图片的防盗链。上面出现403就是因为，请求的是别人服务器上的资源，但把自己的referrer信息带过去了，被对方服务器拦截返回了403。</p><p>    在前端可以通过meta来设置referrer policy(来源策略)，具体可以设置哪些值以及对应的结果参考这里。所以针对上面的403情况的解决方法，就是把referrer设置成no-referrer，这样发送请求不会带上referrer信息，对方服务器也就无法拦截了。</p><p>    浏览器中referrer默认的值是no-referrer-when-downgrade，就是除了降级请求的情况以外都会带上referrer信息。降级请求是指https协议的地址去请求http协议，所以上面403的情况还有另一种解决方法就是，请求的图片地址换成http协议，自己的地址使用http协议，这样降级请求也不会带上referrer。</p><p>    3.解决办法 （butterfly主题）<br>    在\themes\butterfly\layout\includes目录下有一个head.pug文件，修改该文件的meta信息，会使生成的所有页面都带有该head。在head.pug文件中添加如下内容，结果参见图片。</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">meta(name=&quot;copyright&quot; content=pageCopyright) meta(name =&quot;format-detection&quot; content=&quot;telephone=no&quot;) meta(name=&quot;theme-color&quot; content=themeColor)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1：hexo d后 ERROR Deployer not found: git&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm i</summary>
+      
+    
+    
+    
+    <category term="hexo" scheme="http://sodoi.cc/categories/hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sodoi.cc/2022/08/03/hello-world/"/>
+    <id>http://sodoi.cc/2022/08/03/hello-world/</id>
+    <published>2022-08-03T07:19:04.000Z</published>
+    <updated>2022-08-07T08:29:01.121Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
