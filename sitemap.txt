@@ -1,3 +1,4 @@
+http://sodoi.cc/2023/01/29/Notepad/
 http://sodoi.cc/2023/01/29/XMedia-Recode/
 http://sodoi.cc/2023/01/27/gifcam/
 http://sodoi.cc/2022/08/28/Niagara-Launcher/
@@ -28,6 +29,9 @@ http://sodoi.cc/tags/%E8%A7%86%E9%A2%91/
 http://sodoi.cc/tags/%E8%BD%AC%E6%8D%A2/
 http://sodoi.cc/tags/%E4%B8%AD%E6%96%87/
 http://sodoi.cc/tags/%E5%85%8D%E8%B4%B9/
+http://sodoi.cc/tags/%E6%96%87%E6%9C%AC/
+http://sodoi.cc/tags/%E7%BC%96%E8%BE%91%E5%99%A8/
+http://sodoi.cc/tags/mac/
 http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/
 http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7/
 http://sodoi.cc/categories/hexo/

@@ -6,7 +6,7 @@
   <link href="http://sodoi.cc/atom.xml" rel="self"/>
   
   <link href="http://sodoi.cc/"/>
-  <updated>2023-01-29T14:26:23.670Z</updated>
+  <updated>2023-01-29T16:41:25.322Z</updated>
   <id>http://sodoi.cc/</id>
   
   <author>
@@ -17,13 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Notepad--来自中国的轻量级文本编辑器</title>
+    <link href="http://sodoi.cc/2023/01/29/Notepad/"/>
+    <id>http://sodoi.cc/2023/01/29/Notepad/</id>
+    <published>2023-01-29T15:49:56.000Z</published>
+    <updated>2023-01-29T16:41:25.322Z</updated>
+    
+    <content type="html"><![CDATA[<p>Notepad– 一款来自中国，使用C++编写的轻量级文本编辑器，支持Win&#x2F;linux&#x2F;Mac平台。</p><p>本站收取为最新版本 V1.21，如需其他版本可到作者仓库下载。</p><p><strong>软件特点：</strong></p><p>这是一个使用C++编写的文本编辑器Notepad–,可以支持Win&#x2F;Linux&#x2F;Mac平台。</p><p>我们的目标是要替换Notepad++，重点在国产Uos系统、Mac 系统上发展。</p><p>一个支持windows&#x2F;linux&#x2F;mac的文本编辑器，目标是要替换notepad++，来自中国。</p><p>对比Notepad++而言，我们的优势是可以跨平台，支持linux mac操作系统。</p><p>鉴于Notepad++作者的错误言论，Notepad–的意义在于：减少一点错误言论，减少一点自以为是。</p><p><strong>严正声明，台湾是中国的一部分</strong>。</p><p><img src="/2023/01/29/Notepad/1.png" alt="输入图片说明"></p><p><img src="/2023/01/29/Notepad/2.png" alt="输入图片说明"></p><p><img src="/2023/01/29/Notepad/3.png" alt="输入图片说明"></p><p><img src="/2023/01/29/Notepad/4.png" alt="输入图片说明"></p><p>以上，摘自作者仓库。</p><p><a href="https://pan.baidu.com/s/1MHk7mTjuRs0ofkjFNv86dA?pwd=8bde">下载地址 提取码：8bde</a></p><p>一个是安装版，后期支持插件，而NDD为绿色便携版，后期不支持插件。</p><p>作者仓库地址: <a href="https://gitee.com/cxasm/notepad--">https://gitee.com/cxasm/notepad--</a></p><p>仓库下载地址：<a href="https://gitee.com/cxasm/notepad--/releases">https://gitee.com/cxasm/notepad--/releases</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Notepad– 一款来自中国，使用C++编写的轻量级文本编辑器，支持Win&amp;#x2F;linux&amp;#x2F;Mac平台。&lt;/p&gt;
+&lt;p&gt;本站收取为最新版本 V1.21，如需其他版本可到作者仓库下载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软件特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="软件" scheme="http://sodoi.cc/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="文本" scheme="http://sodoi.cc/tags/%E6%96%87%E6%9C%AC/"/>
+    
+    <category term="编辑器" scheme="http://sodoi.cc/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    <category term="mac" scheme="http://sodoi.cc/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
     <title>视频转换软件 XMedia Recode3.5.7.0 中文版</title>
     <link href="http://sodoi.cc/2023/01/29/XMedia-Recode/"/>
     <id>http://sodoi.cc/2023/01/29/XMedia-Recode/</id>
     <published>2023-01-29T14:11:44.000Z</published>
-    <updated>2023-01-29T14:26:23.670Z</updated>
+    <updated>2023-01-29T16:41:01.922Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>XMedia Recode 是一款优秀的视频转换软件，支持 DVD, AVI, MP4, 3GP, WMV, ASF 等格式转换。支持 iPod, iPhone, Samsung, SonyEricsson, Zune, PSP, Blackberry, LG, 等设备。XMedia Recode 是一个软件应用程序，旨在帮助您转换音频和视频文件，并以创新的方式面向初学者和有经验的用户。</strong></p><p><img src="/2023/01/29/XMedia-Recode/1.png" alt=" "></p><h4 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色:"></a>软件特色:</h4><p>视频部分剪切<br>使用自由选择框颜色（填充）<br>色彩校正（亮度，对比度，伽玛值，色调，饱和度）<br>拖放视频编码器直接<br>选择图片大小（1:1，3:2，4:3，5:4，5:6，11:9,16:9，16:10，2.21:1）<br>变焦（没有信箱，媒体，Pan Scan，适合屏幕）<br>直接流复制功能<br>2 – pass编码<br>体积校正<br>音量标准化<br>帧率，比特率，分辨率可调节<br>可以从大多数视频流格式的音频，提取<br>创建 Pocket PC 的DVD 复制<br>创建您的手机套 DVD<br>创造了 iPod 和 iPhone 套 DVD<br>创建为 PSP 和 PS3 的 DVD 复制</p><p>XMedia Recode 格式支持<br>3GP, 3GPP, 3GPP2, AAC, AC3, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV,H.261, H.263, H.264, M4A, M1V, M2V, M4V, Matroska（MKV）， MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV,QT, OGG, PSP,RM, （S）VCD, SWF, VOB, WAV, WebM, WMA und WMV</p><p>XMedia Recode 中文设置<br>Options-&gt;preferences-&gt;languages：简体中文</p><p>XMedia Recode 许可证<br>免费使用和商业使用</p><h4 id="官方主页-https-www-xmedia-recode-de-index-php"><a href="#官方主页-https-www-xmedia-recode-de-index-php" class="headerlink" title="官方主页:https://www.xmedia-recode.de/index.php"></a>官方主页:<a href="https://www.xmedia-recode.de/index.php">https://www.xmedia-recode.de/index.php</a></h4><p><a href="https://pan.baidu.com/s/1rIszjFF9WGfdVWoXw2h58Q?pwd=cd65">下载地址 提取码: cd65</a></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>XMedia Recode 是一款优秀的视频转换软件，支持 DVD, AVI, MP4, 3GP, WMV, ASF 等格式转换。支持 iPod, iPhone, Samsung, SonyEricsson, Zune, PSP, Blackberry, LG, 等设备。XMedia Recode 是一个软件应用程序，旨在帮助您转换音频和视频文件，并以创新的方式面向初学者和有经验的用户。</strong></p><p><img src="/2023/01/29/XMedia-Recode/1.png" alt=" "></p><h4 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色:"></a>软件特色:</h4><p>视频部分剪切<br>使用自由选择框颜色（填充）<br>色彩校正（亮度，对比度，伽玛值，色调，饱和度）<br>拖放视频编码器直接<br>选择图片大小（1:1，3:2，4:3，5:4，5:6，11:9,16:9，16:10，2.21:1）<br>变焦（没有信箱，媒体，Pan Scan，适合屏幕）<br>直接流复制功能<br>2 – pass编码<br>体积校正<br>音量标准化<br>帧率，比特率，分辨率可调节<br>可以从大多数视频流格式的音频，提取<br>创建 Pocket PC 的DVD 复制<br>创建您的手机套 DVD<br>创造了 iPod 和 iPhone 套 DVD<br>创建为 PSP 和 PS3 的 DVD 复制</p><p>XMedia Recode 格式支持<br>3GP, 3GPP, 3GPP2, AAC, AC3, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV,H.261, H.263, H.264, M4A, M1V, M2V, M4V, Matroska（MKV）， MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV,QT, OGG, PSP,RM, （S）VCD, SWF, VOB, WAV, WebM, WMA und WMV</p><p>XMedia Recode 中文设置<br>Options-&gt;preferences-&gt;languages：简体中文</p><p>XMedia Recode 许可证<br>免费使用和商业使用</p><h4 id="官方主页-https-www-xmedia-recode-de-index-php"><a href="#官方主页-https-www-xmedia-recode-de-index-php" class="headerlink" title="官方主页:https://www.xmedia-recode.de/index.php"></a>官方主页:<a href="https://www.xmedia-recode.de/index.php">https://www.xmedia-recode.de/index.php</a></h4><p><a href="https://pan.baidu.com/s/1MJ9Mqh0glLfgpCvsBMgH3A?pwd=332j">下载地址 提取码: 332j</a></p>]]></content>
     
     
       

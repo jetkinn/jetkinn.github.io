@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sodoi.cc/2023/01/29/Notepad/</loc>
+    
+    <lastmod>2023-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sodoi.cc/2023/01/29/XMedia-Recode/</loc>
     
     <lastmod>2023-01-29</lastmod>
@@ -230,6 +239,27 @@
   
   <url>
     <loc>http://sodoi.cc/tags/%E5%85%8D%E8%B4%B9/</loc>
+    <lastmod>2023-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://sodoi.cc/tags/%E6%96%87%E6%9C%AC/</loc>
+    <lastmod>2023-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://sodoi.cc/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
+    <lastmod>2023-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://sodoi.cc/tags/mac/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
