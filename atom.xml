@@ -39,11 +39,11 @@
     <category term="工具软件" scheme="http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="软件" scheme="http://sodoi.cc/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="文本" scheme="http://sodoi.cc/tags/%E6%96%87%E6%9C%AC/"/>
     
     <category term="编辑器" scheme="http://sodoi.cc/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    <category term="软件" scheme="http://sodoi.cc/tags/%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="mac" scheme="http://sodoi.cc/tags/mac/"/>
     
@@ -113,41 +113,11 @@
   </entry>
   
   <entry>
-    <title>斐讯N1盒子刷机及救砖</title>
-    <link href="http://sodoi.cc/2022/11/07/%E6%96%90%E8%AE%AFN1%E7%9B%92%E5%AD%90%E5%88%B7%E6%9C%BA%E5%8F%8A%E6%95%91%E7%A0%96/"/>
-    <id>http://sodoi.cc/2022/11/07/%E6%96%90%E8%AE%AFN1%E7%9B%92%E5%AD%90%E5%88%B7%E6%9C%BA%E5%8F%8A%E6%95%91%E7%A0%96/</id>
-    <published>2022-11-07T14:50:18.000Z</published>
-    <updated>2023-01-29T18:37:24.665Z</updated>
-    
-    <content type="html"><![CDATA[<p>算起来，斐讯N1从入手到现在也已经快3年了。期间只重刷过一次，原因是卖家刷的yff系统比较大，占用了太多空间，自己网上找了教程刷了W大的系统，一直用到现在。不知道是不是系统的关系还是其他原因，近些日子来，遥控器的返回键经常的失去响应，必须重启才能恢复。琢磨着是不是再重新刷个系统时，却发现差不多忘了怎么刷机了。翻了翻收藏夹，找了当时的文章看了下，唤醒记忆。</p><h2 id="斐讯天天链N1-官改v2-2"><a href="#斐讯天天链N1-官改v2-2" class="headerlink" title="斐讯天天链N1 官改v2.2"></a>斐讯天天链N1 官改v2.2</h2><p>原文地址：<a href="https://www.right.com.cn/forum/thread-338759-1-1.html">[2018-9-22]斐讯天天链N1 官改v2.2线刷包，精简版，扩展功能可选-斐讯无线路由器以及其它斐迅网络设备-恩山无线论坛 (right.com.cn)</a></p><p>1、基于斐讯官方 V2.32 系统制作<br>斐讯设置主界面去除 账号中心、儿童锁、版本升级，改为 蓝牙遥控配对、更多设置（安卓设置）、设置主桌面。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012153ez00c0ovjwwzoq0r.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012140t5utrw9yy2e98eft.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012140enjkg5zdjsk65day.jpg">  </p><p>2、首次启动开机向导<br>可自动配对 山寨小米蓝牙遥控器、天猫魔盒蓝牙语音遥控器，不影响斐讯T1原厂遥控器配对；  </p><p>第三方遥控：<br>短按电源键出现电源选择界面，确认键执行第一项关机或自动倒数计时关机，无关机动画(快速关机)；<br>关机后按遥控器任意键唤醒开机，斐讯原厂遥控也可快速关机；<br><strong>快速关机bug：</strong>若开机进入桌面后立即执行快速关机，大概率变成重启；<br>第三方遥控在电源选择界面再次按电源键 或 直接长按电源键 ，盒子会重启；  </p><p>斐讯T1原厂遥控器：<br>短按电源键出现电源选择界面后再按一次电源键 或 长按电源键，出现关机动画后盒子关闭；<br>按电源键唤醒开机。  </p><p>3、电源选择界面中 “休眠” 改成 “线刷”：<br>预先用USB双公头线连接盒子和电脑，执行该功能后盒子进入线刷模式；<br>若未接线，盒子会进入recovery界面；<br>也可通过该功能引导U盘第三方系统，如 Armbian Linux 、CoreELEC、Sx05RE 等等。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143kmvy74iqykavpvvw.jpg">  </p><p>4、斐讯挖矿、CDN、下载等预置应用已去除；<br>内置 当贝桌面、Lighthome 、TV Launcher ，也可自行安装其它桌面应用；<br>HDP optware 、谷歌框架、油管、Xposed框架 、kodi 等扩展功能，采用adb脚本包形式选择安装，<br>为保证推送速度，请用网线连接盒子和路由器，在电脑上解压 N1选装功能一键工具20180922.7z ，运行 run.bat 。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/22/034416vrzcxeakaa7aag7w.jpg"><br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/22/034418p71dxalkvvxzovaz.jpg">  </p><p>5、静默root授权、telnet 服务端口2323 ，adb shell 直接为root权限；<br>线刷方法、注意事项这些不再重复，请参考网盘文档或历史帖子。  </p><p><strong>新手必看</strong><br>1、若用其它桌面，需要关闭当贝桌面霸道的 “开机启动”，如下图：<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012155yf12maqzxa74qoiq.jpg">  </p><p>2、桌面切换方法: 斐讯设置-&gt;设置主桌面-&gt;鼠标操作点击 主屏幕应用<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012141vdytaxtqo5atbahp.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143jpszb1sd3lcs4nnn.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143tz2whyh0hhk22b1h.jpg">  </p><p>3、电视管家 -&gt; 一键加速 ，用于清理后台释放运存，或者安装xposed框架和xposed edge pro实现清理后台应用<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012146yumly5vlgsglfukl.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012147qvjy5v0iyyvg5zuz.jpg">  </p><p>4、关于GMS 谷歌框架<br>N1 设备未获得Google认证，运行Play等谷歌服务会出现警告信息无法使用，<br><a href="https://www.google.com/android/uncertified/">认证注册</a>后即正常，注册一次即可，终身无忧，<br>具体注册方法可参考相关帖子，例如 <a href="https://www.right.com.cn/forum/thread-337397-1-1.html">【9月10日】彻底解决N1的Goog1e无法登录的问题-斐讯无线路由器以及其它斐迅网络设备-恩山无线论坛</a></p><h2 id="N1-救砖方法"><a href="#N1-救砖方法" class="headerlink" title="N1 救砖方法"></a>N1 救砖方法</h2><p>准备工作：</p><ul><li>N1机子一台，机子是正常使用install.sh安装armbian到EMMC的，又想恢复成原来的安卓固件，系统崩溃了也没关系</li><li>准备好WEBPAD大的2.2线刷包</li><li>USB_Burning_Tool 刷机工具</li><li>USB 公对公线一条</li></ul><p>开始刷机：</p><ul><li>先把USB对公线链接到电脑USB口与N1的第二个口（靠HDMI口），N1不要通电</li><li>打开USB_Burning_Tool，导入固件WEBPAD大的2.2的线刷包，验证通过后，出现开始字样</li><li>勾选擦除FLASH，不要勾选擦除bootloader，USB_Burning_Tool点击开始运行刷机，3秒钟内速度让N1通电。</li><li>USB_Burning_Tool开始正常识别N1线刷模式，刷机开始。</li><li>烧录完成后，拔电重启，N1恢复了原来的样子，可以正常ADB连接，进入线刷，重新安装ARMBIAN。</li></ul><p>固件的安装及效果大同小异，安装时注意下固件是不是针对自改的机子就行。比如内存，有的固件是基于自己加大内存的机子，不一定适用于自己。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;算起来，斐讯N1从入手到现在也已经快3年了。期间只重刷过一次，原因是卖家刷的yff系统比较大，占用了太多空间，自己网上找了教程刷了W大的系统，一直用到现在。不知道是不是系统的关系还是其他原因，近些日子来，遥控器的返回键经常的失去响应，必须重启才能恢复。琢磨着是不是再重新刷个</summary>
-      
-    
-    
-    
-    <category term="教程" scheme="http://sodoi.cc/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="盒子" scheme="http://sodoi.cc/tags/%E7%9B%92%E5%AD%90/"/>
-    
-    <category term="斐讯" scheme="http://sodoi.cc/tags/%E6%96%90%E8%AE%AF/"/>
-    
-    <category term="N1" scheme="http://sodoi.cc/tags/N1/"/>
-    
-    <category term="刷机" scheme="http://sodoi.cc/tags/%E5%88%B7%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Niagara Launcher 值得一用的桌面启动器</title>
     <link href="http://sodoi.cc/2022/08/28/Niagara-Launcher/"/>
     <id>http://sodoi.cc/2022/08/28/Niagara-Launcher/</id>
     <published>2022-08-27T16:22:00.000Z</published>
-    <updated>2023-01-23T10:12:59.007Z</updated>
+    <updated>2023-01-29T18:35:40.223Z</updated>
     
     <content type="html"><![CDATA[<p>最近一直想给自己换把小屏手机，无意间发现了一把名为“palm phone”的手机，机身尺寸为50.6 x 96.6 x 7.4 mm，屏幕尺寸为3.3英寸，重量仅仅62.5g，还不到iPhone XR的三分之一。对我这种只是用来扫码，不玩游戏的人来说，真的很适合，而且，这手机的桌面是类似苹果手表的瀑布流启动器，很合我意。遗憾的是，这手机的美版竟然只能移动2G，联通3G。实在是有够奇葩。在听说国行的版本可以电信4G后，便稍微看了下海鲜市场，那价格算是彻底让我打消了换购的想法。</p><p>既然如此，便想试着找下类似的桌面来置换就行了。找了很久，找到一款类似的桌面启动器–honey launcher。</p><p>试着安装了下，发现不付费根本用不了瀑布流的模式。正当准备放弃的时候，无意间看到一个评分蛮高的启动器，就是niagara launcher。</p><p><img src="/2022/08/28/Niagara-Launcher/1.png" alt=" "></p><p>正如启动器的名字那样，“niagara”，尼亚加拉瀑布那样，瀑布式交互体验是 Niagara Launcher 的核心特色。</p><p>在 Niagara Launcher 中，我们常规认知中的启动器布局，如小部件、桌面图标、应用抽屉等等被完全打破、重组，借由一个长长的清单串联起来。</p><p><img src="/2022/08/28/Niagara-Launcher/2.gif" alt=" "></p><p><img src="/2022/08/28/Niagara-Launcher/3.png" alt=" "></p><p>从上到下，这份清单包含了能够让我们一眼抓住关键系统信息的小部件，如时间、日期、天气、手机电量、媒体播放等；然后是使用频率最高的应用，它们和小部件一起构成了我们解锁手机后无需任何操作就能一览无余的 Niagara Launcher 主界面，也可以被看作是传统意义上的「主屏」；主屏往下，才是根据字母 A-Z 排序的本机应用清单、我们以往认知观念中的「应用抽屉」。当然了，启动器不能没有自己的设置界面，Niagara Launcher 的设置入口在这份清单的最底部。</p><p>如果只是排列方式上的重组，我们会更倾向于将其称为「清单」而不是「瀑布」。在上面这种排列方式的基础之上，Niagara Launcher 同时也是一款可以完全通过单手甚至单指完成几乎所有交互的启动器。</p><p><img src="/2022/08/28/Niagara-Launcher/4.gif" alt=" "></p><p>得益于三星同样长宽比优异的屏幕， Niagara Launcher 的上下滑动可以完整展现出应用列表的顺畅感。如此再加上「双击字母列表关闭屏幕」和三星自己的 One Hand Operation +，调用桌面和通知栏的任何功能都只需要一根手指，总算是实现了我的夙愿之一：手机总不应该变成如今「一只手没法用」的状态。</p><p>放眼目前所有质量与口碑兼具的第三方启动器，真正跳脱出「应用抽屉」的框架、同时能够在手势操作和快捷功能上让人眼前一亮的选择，除了 Niagara Launcher 之外，无出其右。</p><p><a href="https://jetttt.lanzoum.com/b0chbm7yj">下载地址 密码：1ymr </a></p>]]></content>
     
@@ -167,36 +137,6 @@
     <category term="启动器" scheme="http://sodoi.cc/tags/%E5%90%AF%E5%8A%A8%E5%99%A8/"/>
     
     <category term="手机" scheme="http://sodoi.cc/tags/%E6%89%8B%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TVBOX 盒子影视播放工具</title>
-    <link href="http://sodoi.cc/2022/08/11/TVBOX/"/>
-    <id>http://sodoi.cc/2022/08/11/TVBOX/</id>
-    <published>2022-08-10T16:52:45.000Z</published>
-    <updated>2023-01-23T09:33:09.005Z</updated>
-    
-    <content type="html"><![CDATA[<p>TVBOX是一款开源，可自定义添加站源的影音播放工具，可支持点播，直播，磁力链等形式的影视播放。支持SP，APP，采集，聚合等形式的播放源。它的前身是一代神器猫影视，由于传播广泛，有些唯利是图之人上架至第三方平台售卖，开发者无法承担可能面临的版权问题，宣布停止维护项目。而重新打造的TVBOX,不仅继承了猫影视的功能，更是对其基础上不断优化，及添加新的功能。</p><p>和猫影视一样，TVBox原生版，只是个空壳，不带任何数据源，需要自行在设置里导入接口。支持网址和本地两种导入方式。（导入前，需先开启设备的存储权限）<br><img src="/2022/08/11/TVBOX/0.jpg"><br><img src="/2022/08/11/TVBOX/1.jpg"><br><img src="/2022/08/11/TVBOX/3.jpg"><br>以下为网络收集的接口：</p><p>2023.01.23 更新：</p><p><a href="http://drpy.site/slim">http://drpy.site/slim</a>  (精简版）<br><a href="http://drpy.site/js1">http://drpy.site/js1</a>  (普通版）<br>来源 @liuxiaoya00 </p><p><a href="https://freed.yuanhsing.cf/TVBox/meowcf.json">https://freed.yuanhsing.cf/TVBox/meowcf.json</a><br>来源 YuanHsing仓库 (<a href="https://github.com/YuanHsing/freed/tree/master/TVBox">https://github.com/YuanHsing/freed/tree/master/TVBox</a>) 推荐💯</p><p><a href="https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json">https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json</a><br>来源 @anyo88 </p><p><a href="https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json">https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json</a><br>来源 @shiguangsuidao </p><p>http:&#x2F;&#x2F;刚刚.live&#x2F;猫<br>点击前往本地配置<br> (<a href="https://t.me/MaoYingShi/16378)%E6%9D%A5%E6%BA%90">https://t.me/MaoYingShi/16378)来源</a> 刚刚的博客</p><p> (<a href="https://g2.pub/)https://raw.iqiq.io/liu673cn/box/main/m.json">https://g2.pub/)https://raw.iqiq.io/liu673cn/box/main/m.json</a><br>来源 liu673cn仓库 (<a href="https://github.com/liu673cn/mao">https://github.com/liu673cn/mao</a>)</p><p><a href="http://w.g9.pub:66/842250464/bibi/cbi.json">http://w.g9.pub:66/842250464/bibi/cbi.json</a> 学习接口<br>来源 @MAdouSM </p><p><a href="https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json">https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json</a><br>来源 @MAdouSM 学习接口👩‍🎓Py版<br>下载Py版本👉 @watson1028</p><p><a href="https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json">https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json</a><br>来源 影视tv</p><p><a href="https://dxawi.github.io/0/0.json">https://dxawi.github.io/0/0.json</a> 推荐💯<br>来源 @boozf</p><p><a href="http://tvbox.lengniuge.eu.org/ts">http://tvbox.lengniuge.eu.org/ts</a><br>http:&#x2F;&#x2F;饭太硬.ga&#x2F;x&#x2F;o.json</p><hr><p><a href="http://gg.gg/11mv09">http://gg.gg/11mv09</a><br><a href="https://wds.ecsxs.com/227680.txt">https://wds.ecsxs.com/227680.txt</a><br><a href="https://shuyuan.miaogongzi.net/shuyuan/1656890371.txt">https://shuyuan.miaogongzi.net/shuyuan/1656890371.txt</a><br><a href="https://pastebin.com/raw/sbPpDm9G">https://pastebin.com/raw/sbPpDm9G</a><br><a href="http://json.myaixixi.com/mtv/jk.json">http://json.myaixixi.com/mtv/jk.json</a>   <a href="https://tangsan99999.github.io/xiaobai.json">https://tangsan99999.github.io/xiaobai.json</a><br><a href="https://github.com/hjcmcn/z/blob/main/21929.json">https://github.com/hjcmcn/z/blob/main/21929.json</a><br><a href="http://music.wonzan.com/212757.json">http://music.wonzan.com/212757.json</a><br><a href="https://tool.wotianna.com/mysjk.json">https://tool.wotianna.com/mysjk.json</a><br><a href="https://shuyuan.miaogongzi.net/shuyuan/1659160771.txt">https://shuyuan.miaogongzi.net/shuyuan/1659160771.txt</a><br><a href="http://json.myaixixi.com/mtv/jk.json">http://json.myaixixi.com/mtv/jk.json</a>   <a href="https://tangsan99999.github.io/xiaobai.json">https://tangsan99999.github.io/xiaobai.json</a><br><a href="https://pastebin.com/raw/sbPpDm9G">https://pastebin.com/raw/sbPpDm9G</a></p><p>PS：这些网址不确定是否有人维护，时效性无法保证，如果不能用了可以留言，我会更新。</p><p>网盘：<a href="https://jetttt.lanzoum.com/b0cgrml2b">点击下载</a> 密码:8q36</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;TVBOX是一款开源，可自定义添加站源的影音播放工具，可支持点播，直播，磁力链等形式的影视播放。支持SP，APP，采集，聚合等形式的播放源。它的前身是一代神器猫影视，由于传播广泛，有些唯利是图之人上架至第三方平台售卖，开发者无法承担可能面临的版权问题，宣布停止维护项目。而重</summary>
-      
-    
-    
-    
-    <category term="工具软件" scheme="http://sodoi.cc/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="TVBOX" scheme="http://sodoi.cc/tags/TVBOX/"/>
-    
-    <category term="软件" scheme="http://sodoi.cc/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="盒子" scheme="http://sodoi.cc/tags/%E7%9B%92%E5%AD%90/"/>
-    
-    <category term="影音" scheme="http://sodoi.cc/tags/%E5%BD%B1%E9%9F%B3/"/>
     
   </entry>
   
@@ -264,6 +204,46 @@
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://sodoi.cc/1970/01/01/TVBOX/"/>
+    <id>http://sodoi.cc/1970/01/01/TVBOX/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2023-03-22T17:05:32.445Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: TVBOX 盒子影视播放工具<br>categories:<br>   工具软件<br>tags:<br>   TVBOX<br>   软件<br>   盒子<br>   影音<br>top_img: <a href="https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg">https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg</a><br>date: 20220811 00:52:45<br>cover:</p><p>TVBOX是一款开源，可自定义添加站源的影音播放工具，可支持点播，直播，磁力链等形式的影视播放。支持SP，APP，采集，聚合等形式的播放源。它的前身是一代神器猫影视，由于传播广泛，有些唯利是图之人上架至第三方平台售卖，开发者无法承担可能面临的版权问题，宣布停止维护项目。而重新打造的TVBOX,不仅继承了猫影视的功能，更是对其基础上不断优化，及添加新的功能。</p><p>和猫影视一样，TVBox原生版，只是个空壳，不带任何数据源，需要自行在设置里导入接口。支持网址和本地两种导入方式。（导入前，需先开启设备的存储权限）<br><img src="/1970/01/01/TVBOX/0.jpg"><br><img src="/1970/01/01/TVBOX/1.jpg"><br><img src="/1970/01/01/TVBOX/3.jpg"><br>以下为网络收集的接口：</p><p>2023.01.23 更新：</p><p><a href="http://drpy.site/slim">http://drpy.site/slim</a>  (精简版）<br><a href="http://drpy.site/js1">http://drpy.site/js1</a>  (普通版）<br>来源 @liuxiaoya00 </p><p><a href="https://freed.yuanhsing.cf/TVBox/meowcf.json">https://freed.yuanhsing.cf/TVBox/meowcf.json</a><br>来源 YuanHsing仓库 (<a href="https://github.com/YuanHsing/freed/tree/master/TVBox">https://github.com/YuanHsing/freed/tree/master/TVBox</a>) 推荐💯</p><p><a href="https://raw.iqiq.io/kebedd69/TVboxinterface/main/%E7%94%9C%E8%9C%9C.json">https://raw.iqiq.io/kebedd69/TVboxinterface/main/甜蜜.json</a><br>来源 @anyo88 </p><p><a href="https://ghproxy.com/https://raw.githubusercontent.com/tvplayer/tvboxline/main/tv/fj.json">https://ghproxy.com/https://raw.githubusercontent.com/tvplayer/tvboxline/main/tv/fj.json</a><br>来源 @shiguangsuidao </p><p>http:&#x2F;&#x2F;刚刚.live&#x2F;猫<br>点击前往本地配置<br> (<a href="https://t.me/MaoYingShi/16378)%E6%9D%A5%E6%BA%90">https://t.me/MaoYingShi/16378)来源</a> 刚刚的博客</p><p> (<a href="https://g2.pub/)https://raw.iqiq.io/liu673cn/box/main/m.json">https://g2.pub/)https://raw.iqiq.io/liu673cn/box/main/m.json</a><br>来源 liu673cn仓库 (<a href="https://github.com/liu673cn/mao">https://github.com/liu673cn/mao</a>)</p><p><a href="http://w.g9.pub:66/842250464/bibi/cbi.json">http://w.g9.pub:66/842250464/bibi/cbi.json</a> 学习接口<br>来源 @MAdouSM </p><p><a href="https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json">https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/bY.json</a><br>来源 @MAdouSM 学习接口👩‍🎓Py版<br>下载Py版本👉 @watson1028</p><p><a href="https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json">https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json</a><br>来源 影视tv</p><p><a href="https://dxawi.github.io/0/0.json">https://dxawi.github.io/0/0.json</a> 推荐💯<br>来源 @boozf</p><p><a href="http://tvbox.lengniuge.eu.org/ts">http://tvbox.lengniuge.eu.org/ts</a><br>http:&#x2F;&#x2F;饭太硬.ga&#x2F;x&#x2F;o.json</p><p><a href="http://gg.gg/11mv09">http://gg.gg/11mv09</a><br><a href="https://wds.ecsxs.com/227680.txt">https://wds.ecsxs.com/227680.txt</a><br><a href="https://shuyuan.miaogongzi.net/shuyuan/1656890371.txt">https://shuyuan.miaogongzi.net/shuyuan/1656890371.txt</a><br><a href="https://pastebin.com/raw/sbPpDm9G">https://pastebin.com/raw/sbPpDm9G</a><br><a href="http://json.myaixixi.com/mtv/jk.json">http://json.myaixixi.com/mtv/jk.json</a>   <a href="https://tangsan99999.github.io/xiaobai.json">https://tangsan99999.github.io/xiaobai.json</a><br><a href="https://github.com/hjcmcn/z/blob/main/21929.json">https://github.com/hjcmcn/z/blob/main/21929.json</a><br><a href="http://music.wonzan.com/212757.json">http://music.wonzan.com/212757.json</a><br><a href="https://tool.wotianna.com/mysjk.json">https://tool.wotianna.com/mysjk.json</a><br><a href="https://shuyuan.miaogongzi.net/shuyuan/1659160771.txt">https://shuyuan.miaogongzi.net/shuyuan/1659160771.txt</a><br><a href="http://json.myaixixi.com/mtv/jk.json">http://json.myaixixi.com/mtv/jk.json</a>   <a href="https://tangsan99999.github.io/xiaobai.json">https://tangsan99999.github.io/xiaobai.json</a><br><a href="https://pastebin.com/raw/sbPpDm9G">https://pastebin.com/raw/sbPpDm9G</a></p><p>PS：这些网址不确定是否有人维护，时效性无法保证，如果不能用了可以留言，我会更新。</p><p>网盘：<a href="https://jetttt.lanzoum.com/b0cgrml2b">点击下载</a> 密码:8q36</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: TVBOX 盒子影视播放工具&lt;br&gt;categories:&lt;br&gt;   工具软件&lt;br&gt;tags:&lt;br&gt;   TVBOX&lt;br&gt;   软件&lt;br&gt;   盒子&lt;br&gt;   影音&lt;br&gt;top_img: &lt;a href=&quot;https://s2.loli.net/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://sodoi.cc/1970/01/01/%E6%96%90%E8%AE%AFN1%E7%9B%92%E5%AD%90%E5%88%B7%E6%9C%BA%E5%8F%8A%E6%95%91%E7%A0%96/"/>
+    <id>http://sodoi.cc/1970/01/01/%E6%96%90%E8%AE%AFN1%E7%9B%92%E5%AD%90%E5%88%B7%E6%9C%BA%E5%8F%8A%E6%95%91%E7%A0%96/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2023-03-22T17:05:32.444Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: 斐讯N1盒子刷机及救砖<br>categories:<br>   教程<br>tags:<br>   斐讯<br>   N1<br>   盒子<br>   刷机<br>top_img: <a href="https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg">https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg</a><br>date: 20221107 22:50:18<br>cover:</p><p>算起来，斐讯N1从入手到现在也已经快3年了。期间只重刷过一次，原因是卖家刷的yff系统比较大，占用了太多空间，自己网上找了教程刷了W大的系统，一直用到现在。不知道是不是系统的关系还是其他原因，近些日子来，遥控器的返回键经常的失去响应，必须重启才能恢复。琢磨着是不是再重新刷个系统时，却发现差不多忘了怎么刷机了。翻了翻收藏夹，找了当时的文章看了下，唤醒记忆。</p><h2 id="斐讯天天链N1-官改v2-2"><a href="#斐讯天天链N1-官改v2-2" class="headerlink" title="斐讯天天链N1 官改v2.2"></a>斐讯天天链N1 官改v2.2</h2><p>原文地址：<a href="https://www.right.com.cn/forum/thread33875911.html">[2018922]斐讯天天链N1 官改v2.2线刷包，精简版，扩展功能可选斐讯无线路由器以及其它斐迅网络设备恩山无线论坛 (right.com.cn)</a></p><p>1、基于斐讯官方 V2.32 系统制作<br>斐讯设置主界面去除 账号中心、儿童锁、版本升级，改为 蓝牙遥控配对、更多设置（安卓设置）、设置主桌面。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012153ez00c0ovjwwzoq0r.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012140t5utrw9yy2e98eft.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012140enjkg5zdjsk65day.jpg">  </p><p>2、首次启动开机向导<br>可自动配对 山寨小米蓝牙遥控器、天猫魔盒蓝牙语音遥控器，不影响斐讯T1原厂遥控器配对；  </p><p>第三方遥控：<br>短按电源键出现电源选择界面，确认键执行第一项关机或自动倒数计时关机，无关机动画(快速关机)；<br>关机后按遥控器任意键唤醒开机，斐讯原厂遥控也可快速关机；<br><strong>快速关机bug：</strong>若开机进入桌面后立即执行快速关机，大概率变成重启；<br>第三方遥控在电源选择界面再次按电源键 或 直接长按电源键 ，盒子会重启；  </p><p>斐讯T1原厂遥控器：<br>短按电源键出现电源选择界面后再按一次电源键 或 长按电源键，出现关机动画后盒子关闭；<br>按电源键唤醒开机。  </p><p>3、电源选择界面中 “休眠” 改成 “线刷”：<br>预先用USB双公头线连接盒子和电脑，执行该功能后盒子进入线刷模式；<br>若未接线，盒子会进入recovery界面；<br>也可通过该功能引导U盘第三方系统，如 Armbian Linux 、CoreELEC、Sx05RE 等等。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143kmvy74iqykavpvvw.jpg">  </p><p>4、斐讯挖矿、CDN、下载等预置应用已去除；<br>内置 当贝桌面、Lighthome 、TV Launcher ，也可自行安装其它桌面应用；<br>HDP optware 、谷歌框架、油管、Xposed框架 、kodi 等扩展功能，采用adb脚本包形式选择安装，<br>为保证推送速度，请用网线连接盒子和路由器，在电脑上解压 N1选装功能一键工具20180922.7z ，运行 run.bat 。<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/22/034416vrzcxeakaa7aag7w.jpg"><br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/22/034418p71dxalkvvxzovaz.jpg">  </p><p>5、静默root授权、telnet 服务端口2323 ，adb shell 直接为root权限；<br>线刷方法、注意事项这些不再重复，请参考网盘文档或历史帖子。  </p><p><strong>新手必看</strong><br>1、若用其它桌面，需要关闭当贝桌面霸道的 “开机启动”，如下图：<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012155yf12maqzxa74qoiq.jpg">  </p><p>2、桌面切换方法: 斐讯设置&gt;设置主桌面&gt;鼠标操作点击 主屏幕应用<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012141vdytaxtqo5atbahp.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143jpszb1sd3lcs4nnn.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012143tz2whyh0hhk22b1h.jpg">  </p><p>3、电视管家 &gt; 一键加速 ，用于清理后台释放运存，或者安装xposed框架和xposed edge pro实现清理后台应用<br><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012146yumly5vlgsglfukl.jpg">  </p><p><img src="https://www.right.com.cn/forum/data/attachment/forum/201809/21/012147qvjy5v0iyyvg5zuz.jpg">  </p><p>4、关于GMS 谷歌框架<br>N1 设备未获得Google认证，运行Play等谷歌服务会出现警告信息无法使用，<br><a href="https://www.google.com/android/uncertified/">认证注册</a>后即正常，注册一次即可，终身无忧，<br>具体注册方法可参考相关帖子，例如 <a href="https://www.right.com.cn/forum/thread33739711.html">【9月10日】彻底解决N1的Goog1e无法登录的问题斐讯无线路由器以及其它斐迅网络设备恩山无线论坛</a></p><h2 id="N1-救砖方法"><a href="#N1-救砖方法" class="headerlink" title="N1 救砖方法"></a>N1 救砖方法</h2><p>准备工作：</p><p> N1机子一台，机子是正常使用install.sh安装armbian到EMMC的，又想恢复成原来的安卓固件，系统崩溃了也没关系<br> 准备好WEBPAD大的2.2线刷包<br> USB_Burning_Tool 刷机工具<br> USB 公对公线一条</p><p>开始刷机：</p><p> 先把USB对公线链接到电脑USB口与N1的第二个口（靠HDMI口），N1不要通电<br> 打开USB_Burning_Tool，导入固件WEBPAD大的2.2的线刷包，验证通过后，出现开始字样<br> 勾选擦除FLASH，不要勾选擦除bootloader，USB_Burning_Tool点击开始运行刷机，3秒钟内速度让N1通电。<br> USB_Burning_Tool开始正常识别N1线刷模式，刷机开始。<br> 烧录完成后，拔电重启，N1恢复了原来的样子，可以正常ADB连接，进入线刷，重新安装ARMBIAN。</p><p>固件的安装及效果大同小异，安装时注意下固件是不是针对自改的机子就行。比如内存，有的固件是基于自己加大内存的机子，不一定适用于自己。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: 斐讯N1盒子刷机及救砖&lt;br&gt;categories:&lt;br&gt;   教程&lt;br&gt;tags:&lt;br&gt;   斐讯&lt;br&gt;   N1&lt;br&gt;   盒子&lt;br&gt;   刷机&lt;br&gt;top_img: &lt;a href=&quot;https://s2.loli.net/2022/08/</summary>
       
     
     
