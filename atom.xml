@@ -6,7 +6,7 @@
   <link href="http://sodoi.cc/atom.xml" rel="self"/>
   
   <link href="http://sodoi.cc/"/>
-  <updated>2023-01-29T18:35:58.323Z</updated>
+  <updated>2023-09-04T16:55:51.969Z</updated>
   <id>http://sodoi.cc/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://sodoi.cc/2023/09/05/debian%20test/"/>
+    <id>http://sodoi.cc/2023/09/05/debian%20test/</id>
+    <published>2023-09-04T16:54:50.127Z</published>
+    <updated>2023-09-04T16:55:51.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: debian test<br>   工具软件<br>tags:<br>top_img: <a href="https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg">https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg</a><br>date: 20220811 00:52:45<br>cover:</p><p> debian test!!!!!!!!!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: debian test&lt;br&gt;   工具软件&lt;br&gt;tags:&lt;br&gt;top_img: &lt;a href=&quot;https://s2.loli.net/2022/08/07/9tN2bQwhe6Wlgdu.jpg&quot;&gt;https://s2.loli.net/2022/</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Notepad--来自中国的轻量级文本编辑器</title>
