@@ -6,7 +6,7 @@
   <link href="http://sodoi.cc/atom.xml" rel="self"/>
   
   <link href="http://sodoi.cc/"/>
-  <updated>2023-09-04T16:55:51.969Z</updated>
+  <updated>2024-02-27T04:58:03.894Z</updated>
   <id>http://sodoi.cc/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://sodoi.cc/2024/02/27/test/"/>
+    <id>http://sodoi.cc/2024/02/27/test/</id>
+    <published>2024-02-27T04:57:40.000Z</published>
+    <updated>2024-02-27T04:58:03.894Z</updated>
+    
+    <content type="html"><![CDATA[<p>test。。。。。test。。。。。test。。。。。test。。。。。test。。。。。test。。。。。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test。。。。。test。。。。。test。。。。。test。。。。。test。。。。。test。。。。。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>debian使用hyprland平铺窗口管理器</title>
+    <link href="http://sodoi.cc/2024/02/06/debian%E4%BD%BF%E7%94%A8hyprland%E5%B9%B3%E9%93%BA%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8/"/>
+    <id>http://sodoi.cc/2024/02/06/debian%E4%BD%BF%E7%94%A8hyprland%E5%B9%B3%E9%93%BA%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8/</id>
+    <published>2024-02-06T12:25:16.000Z</published>
+    <updated>2024-02-06T12:25:16.959Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
